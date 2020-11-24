@@ -1,5 +1,5 @@
 # phpmybdayRSVP
-A birthday invitation website built with php.
+A birthday invitation website for quick and fast RSVP Response built with php & MySql.
 
 ## Features
 - [x] Main party info landing page
@@ -9,4 +9,4 @@ A birthday invitation website built with php.
 - [x] Saves paper and simplifies the rsvp process.
 
 ## Planned Features
-- [] Might want to add edit/delete feature for rsvps, in case responses need to be edited or deleted for whatever reason. Wasn't needed for my purpose. 
+- [ ] Might want to add edit/delete feature for rsvps, in case responses need to be edited or deleted for whatever reason. Wasn't needed for my purpose. 
